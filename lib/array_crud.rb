@@ -28,7 +28,6 @@ end
 
 def retrieve_element_from_index(array, index_number)
  retrieved_element = array.index[index_number] 
- p retrieved_element
  
 
   
