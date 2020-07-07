@@ -27,7 +27,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
- retrieved_element = array.index[index_number] 
+ retrieved_element = array[index_number] 
  
 
   
